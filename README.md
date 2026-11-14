@@ -1,6 +1,6 @@
-# Amazon-Sales-Dashboard
+# Global Superstore Dashboard
 Interactive Amazon Sales Dashboard using Power BI
-# Amazon Sales Performance & Business Insights Dashboard
+# Global Superstore Sales Performance & Business Insights Dashboard
 
 ## Project Overview
 
@@ -17,7 +17,7 @@ Developed an interactive Power BI dashboard to analyze sales performance, profit
 
 ## Dashboard Preview
 
-<img width="3279" height="1806" alt="amazon_sales_dashboard" src="https://github.com/user-attachments/assets/8c29cdf3-e2d9-4c53-b07e-b55eda66937e" />
+<img width="950" height="527" alt="Global Superstore Dashboard" src="https://github.com/user-attachments/assets/39e05430-46ab-4576-b642-ff478f2fd34e" />
 
 
 ## Key Performance Indicators (KPIs)
